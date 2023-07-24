@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[No of rows in TCSheet::4   No of rows in TSSheet::10]]>
+    </line>
+    <line>
+      <![CDATA[Admin Login Success::adminflow     http://primusbank.qedgetech.com/adminflow.aspx]]>
+    </line>
+    <line>
+      <![CDATA[Admin Logout Success]]>
+    </line>
+    <line>
+      <![CDATA[Admin Login Success::adminflow     http://primusbank.qedgetech.com/adminflow.aspx]]>
+    </line>
+    <line>
+      <![CDATA[New Branch with id 2103 created Sucessfully]]>
+    </line>
+    <line>
+      <![CDATA[Admin Logout Success]]>
+    </line>
+    <line>
+      <![CDATA[Admin Login Success::adminflow     http://primusbank.qedgetech.com/adminflow.aspx]]>
+    </line>
+    <line>
+      <![CDATA[Branch updated Sucessfully]]>
+    </line>
+    <line>
+      <![CDATA[Admin Logout Success]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2023-07-18T20:05:03 IST" name="Default suite" finished-at="2023-07-18T20:05:37 IST" duration-ms="34070">
+    <groups>
+    </groups>
+    <test started-at="2023-07-18T20:05:03 IST" name="Default test" finished-at="2023-07-18T20:05:37 IST" duration-ms="34070">
+      <class name="driverFactory.DriverScript">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:driverFactory.DriverScript@76c3e77a]" started-at="2023-07-18T20:04:56 IST" name="setUp" finished-at="2023-07-18T20:05:03 IST" duration-ms="6848" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="startTest()[pri:0, instance:driverFactory.DriverScript@76c3e77a]" started-at="2023-07-18T20:05:03 IST" name="startTest" finished-at="2023-07-18T20:05:37 IST" duration-ms="33992" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[No of rows in TCSheet::4   No of rows in TSSheet::10]]>
+            </line>
+            <line>
+              <![CDATA[Admin Login Success::adminflow     http://primusbank.qedgetech.com/adminflow.aspx]]>
+            </line>
+            <line>
+              <![CDATA[Admin Logout Success]]>
+            </line>
+            <line>
+              <![CDATA[Admin Login Success::adminflow     http://primusbank.qedgetech.com/adminflow.aspx]]>
+            </line>
+            <line>
+              <![CDATA[New Branch with id 2103 created Sucessfully]]>
+            </line>
+            <line>
+              <![CDATA[Admin Logout Success]]>
+            </line>
+            <line>
+              <![CDATA[Admin Login Success::adminflow     http://primusbank.qedgetech.com/adminflow.aspx]]>
+            </line>
+            <line>
+              <![CDATA[Branch updated Sucessfully]]>
+            </line>
+            <line>
+              <![CDATA[Admin Logout Success]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:driverFactory.DriverScript@76c3e77a]" started-at="2023-07-18T20:05:38 IST" name="tearDown" finished-at="2023-07-18T20:05:40 IST" duration-ms="2665" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- driverFactory.DriverScript -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
